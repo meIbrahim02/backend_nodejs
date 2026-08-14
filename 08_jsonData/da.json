@@ -1,0 +1,182 @@
+{
+    "ibrahimsiddique": {
+        "name": "Ibrahim Siddique",
+        "username": "ibrahimsiddique",
+        "followers": 3400,
+        "following": 12400,
+        "posts": [
+            {
+                "id": 1,
+                "image": "https://example.com/images/ibrahim_post1.jpg",
+                "caption": "Beautiful sunset at the beach 🌅",
+                "likes": 1024,
+                "comments": [
+                    {
+                        "username": "ali_khan",
+                        "text": "Stunning view! 😍",
+                        "timestamp": "2026-08-10T14:30:00Z"
+                    },
+                    {
+                        "username": "sara_dev",
+                        "text": "Where is this place?",
+                        "timestamp": "2026-08-10T15:00:00Z"
+                    }
+                ],
+                "timestamp": "2026-08-10T12:00:00Z"
+            },
+            {
+                "id": 2,
+                "image": "https://example.com/images/ibrahim_post2.jpg",
+                "caption": "New project launch day 🚀",
+                "likes": 2340,
+                "comments": [
+                    {
+                        "username": "tech_guru",
+                        "text": "Congrats on the launch!",
+                        "timestamp": "2026-08-08T10:15:00Z"
+                    },
+                    {
+                        "username": "code_ninja",
+                        "text": "Looks amazing, well done! 🎉",
+                        "timestamp": "2026-08-08T11:45:00Z"
+                    }
+                ],
+                "timestamp": "2026-08-08T09:00:00Z"
+            },
+            {
+                "id": 3,
+                "image": "https://example.com/images/ibrahim_post3.jpg",
+                "caption": "Morning coffee and code ☕💻",
+                "likes": 876,
+                "comments": [
+                    {
+                        "username": "java_lover",
+                        "text": "Best combo ever!",
+                        "timestamp": "2026-08-05T08:30:00Z"
+                    }
+                ],
+                "timestamp": "2026-08-05T07:45:00Z"
+            }
+        ]
+    },
+    "johnsmith": {
+        "name": "John Smith",
+        "username": "johnsmith",
+        "followers": 2800,
+        "following": 960,
+        "posts": [
+            {
+                "id": 1,
+                "image": "https://example.com/images/john_post1.jpg",
+                "caption": "Weekend road trip with friends 🚗",
+                "likes": 1840,
+                "comments": [
+                    {
+                        "username": "sam_travel",
+                        "text": "This looks like a great trip! 😍",
+                        "timestamp": "2026-08-12T10:30:00Z"
+                    },
+                    {
+                        "username": "mila_rose",
+                        "text": "Love this view!",
+                        "timestamp": "2026-08-12T11:20:00Z"
+                    }
+                ],
+                "timestamp": "2026-08-12T09:00:00Z"
+            },
+            {
+                "id": 2,
+                "image": "https://example.com/images/john_post2.jpg",
+                "caption": "Gym session completed 💪",
+                "likes": 2600,
+                "comments": [
+                    {
+                        "username": "fit_fan",
+                        "text": "Strong work!",
+                        "timestamp": "2026-08-08T18:00:00Z"
+                    },
+                    {
+                        "username": "coach_mike",
+                        "text": "Consistency wins!",
+                        "timestamp": "2026-08-08T19:15:00Z"
+                    }
+                ],
+                "timestamp": "2026-08-08T17:30:00Z"
+            },
+            {
+                "id": 3,
+                "image": "https://example.com/images/john_post3.jpg",
+                "caption": "Coffee and playlist morning ☕🎵",
+                "likes": 1450,
+                "comments": [
+                    {
+                        "username": "jazzlover",
+                        "text": "That soundtrack is perfect!",
+                        "timestamp": "2026-08-04T08:45:00Z"
+                    }
+                ],
+                "timestamp": "2026-08-04T07:15:00Z"
+            }
+        ]
+    },
+    "emilyjones": {
+        "name": "Emily Jones",
+        "username": "emilyjones",
+        "followers": 5100,
+        "following": 1180,
+        "posts": [
+            {
+                "id": 1,
+                "image": "https://example.com/images/emily_post1.jpg",
+                "caption": "Soft sunrise and fresh air 🌤️",
+                "likes": 3120,
+                "comments": [
+                    {
+                        "username": "sunset_lover",
+                        "text": "This is so peaceful!",
+                        "timestamp": "2026-08-11T06:30:00Z"
+                    },
+                    {
+                        "username": "nina_hill",
+                        "text": "Beautiful colors!",
+                        "timestamp": "2026-08-11T07:10:00Z"
+                    }
+                ],
+                "timestamp": "2026-08-11T05:45:00Z"
+            },
+            {
+                "id": 2,
+                "image": "https://example.com/images/emily_post2.jpg",
+                "caption": "New creative work in progress 🎨",
+                "likes": 4080,
+                "comments": [
+                    {
+                        "username": "art_life",
+                        "text": "This is stunning!",
+                        "timestamp": "2026-08-07T14:00:00Z"
+                    },
+                    {
+                        "username": "pixel_jane",
+                        "text": "Inspiration level: maxed out.",
+                        "timestamp": "2026-08-07T15:15:00Z"
+                    }
+                ],
+                "timestamp": "2026-08-07T13:00:00Z"
+            },
+            {
+                "id": 3,
+                "image": "https://example.com/images/emily_post3.jpg",
+                "caption": "Weekend brunch with friends 🥐☕",
+                "likes": 2230,
+                "comments": [
+                    {
+                        "username": "brunch_buddy",
+                        "text": "Looks like a perfect day!",
+                        "timestamp": "2026-08-02T11:30:00Z"
+                    }
+                ],
+                "timestamp": "2026-08-02T10:15:00Z"
+            }
+        ]
+    }
+}
